@@ -144,5 +144,35 @@ img {
     font-size: 18px;
     text-align: center;
    
-
 }
+
+.quote-div {
+    background: #E5E7EB;
+}
+
+.quote-sec {
+    
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.quote-text {
+    color: var(--bg-color);
+    font-family: var(--ff);
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: left;
+    
+}
+
+.author {
+    color: #1F2937;
+    font-family: var(--ff);
+    text-align: end;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
