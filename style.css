@@ -231,3 +231,15 @@ img {
     font-family: var(--ff);
     border-radius: 10px;
 }
+
+.footer {
+    background: var(--bg-color);
+}
+
+footer {
+    color: var(--primary-color);
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 50px;
+}
